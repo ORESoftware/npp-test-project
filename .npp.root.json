@@ -1,0 +1,10 @@
+{
+  "searchRoots":[
+    "./packages"
+  ],
+  "packages":{
+    "@oresoftware/foo2": true,
+    "@oresoftware/bar1": true,
+    "@oresoftware/baz3": true
+  }
+}
